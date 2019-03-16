@@ -1,0 +1,7 @@
+<aura:component>
+    <aura:attribute name="input1" Type="String"/>
+    <aura:attribute name="input2" Type="String"/>
+    {!v.input1}    
+    {!v.input2}
+	
+</aura:component>
